@@ -24,3 +24,4 @@ Thumbs.db  # Windows
 
 # Мои файлы/ Пользовательские файлы
 tmp_data.txt
+.env
